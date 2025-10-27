@@ -1,0 +1,31 @@
+.cor_fundo{
+   /*background-image:url("");
+
+    margin-left:10%;
+    margin-right: 10%;
+   /* background-attachment: fixed;
+    background-size: cover;*/
+    background-repeat: round;
+}
+.cor_fundo2{
+    /*background-color: rgba(242, 190, 147, 0.415);*/
+    /*background-color: rgba(36, 1, 1, 0.37);*/
+    /*background-color:rgb(  171, 114, 59,0.80);*/
+   background-color: rgb(11, 0, 0);
+   /* margin-top: 5%;*/
+    /*padding: 10%;*/
+    
+}
+.letra{
+    color:0 ;
+    font-size: 20px;
+    
+}
+.titulo{
+    color:0 ;
+    text-align: center;
+}
+.img-fluid{
+    display: flex;
+    justify-content: center;
+}
